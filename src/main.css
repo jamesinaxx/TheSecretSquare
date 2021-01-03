@@ -36,3 +36,9 @@ div {
 .header p {
     font-size: x-large;
 }
+
+.thoughts p {
+    margin: 0%;
+    padding: 0%;
+    padding-left: 30px;
+}
